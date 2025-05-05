@@ -5,7 +5,7 @@ This repository serves as a central point of contact for security-related inquir
 
 ## 🔒 How to Contact Me
 To reach me regarding security issues:
-- **Use the "Issues" section** 📌: Navigate to the "Issues" tab above and create a new issue describing your security concern.
+- **Use the "Issues" section** ⭕: Navigate to the "Issues" tab above and create a new issue describing your security concern.
 - **Follow responsible disclosure practices** 🔐: If you're reporting a vulnerability, please ensure responsible disclosure by providing sufficient details without exposing sensitive data publicly.
 
 ## ⚠️ Responsible Disclosure Policy
